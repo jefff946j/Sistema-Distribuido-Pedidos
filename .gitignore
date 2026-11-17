@@ -1,0 +1,14 @@
+
+# Contraseñas y datos privados
+.env
+
+# Entorno virtual de Python
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Dependencias y archivos generados de React
+frontend/node_modules/
+frontend/dist/
