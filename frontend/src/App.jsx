@@ -108,7 +108,6 @@ function App() {
     <div className="contenedor">
       <header>
         <h1>Sistema de Gestión de Pedidos</h1>
-        <p>Arquitectura distribuida con tolerancia a fallos</p>
       </header>
 
       <main>
